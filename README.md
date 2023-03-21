@@ -22,7 +22,6 @@ Download latest [AppImage](https://github.com/arielyang/TDengineGUI/releases/tag
 
 
 ## Dev Build Setup：
-⚠️ Note: Requires python, preferably 2.7.*
 ```bash
 # clone code 
 git clone https://github.com/arielyang/TDengineGUI.git
@@ -37,6 +36,7 @@ npm run start
 ```
 
 ## Build Package
+⚠️ Note: Requires python, preferably 2.7.*
 ```bash
 # Packaged application will generate in the dist folder
 npm run build 
